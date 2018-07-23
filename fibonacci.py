@@ -9,7 +9,7 @@ def callfibo(fibo, number):
     for i in range(number):
         yield next(fibo)
 
-g = callfibo(fibonacci(),10)
+generator = callfibo(fibonacci(),10)
 
-[print(i) for i in g]
+[print(i) for i in generator]
 
