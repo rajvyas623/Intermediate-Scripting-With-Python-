@@ -1,2 +1,2 @@
 # Intermediate-Scripting-With-Python
-> [Fibonacci Squence using Generator ](./) <br/>
+> [Fibonacci Squence using Generator ](./fibonacci.py) <br/>
